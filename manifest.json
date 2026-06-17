@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-knowledge-brain",
+  "name": "Knowledge Brain",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "实时进化引擎：关窗收经验，开窗变聪明",
+  "author": "Issac",
+  "isDesktopOnly": false
+}
